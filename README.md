@@ -1,3 +1,6 @@
+Run [Run.exe] Before Run the python file
+
+
 F11 Fullscreen
 
 Item Selection
